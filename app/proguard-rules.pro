@@ -1,0 +1,3 @@
+-keep class com.raitha.bharosa.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
